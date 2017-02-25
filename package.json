@@ -13,5 +13,15 @@
     "body-parser": "1.16.1",
     "express": "4.14.1",
     "morgan": "1.8.1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldaly/arttest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emeraldaly/arttest/issues"
+  },
+  "homepage": "https://github.com/emeraldaly/arttest#readme"
   }
+  
 }
